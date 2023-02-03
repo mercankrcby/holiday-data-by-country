@@ -1,0 +1,234 @@
+,date,holiday,HolidayNameEng,CountryName,Country,IsThursday
+0,2023-01-01,Neujahr,New year,Germany,DE,False
+1,2023-04-07,Karfreitag,Good Friday,Germany,DE,False
+2,2023-04-10,Ostermontag,Easter Monday,Germany,DE,False
+3,2023-05-01,Erster Mai,Labour Day,Germany,DE,False
+4,2023-05-18,Christi Himmelfahrt,Ascension Thursday,Germany,DE,True
+5,2023-05-29,Pfingstmontag,Whit Monday,Germany,DE,False
+6,2023-10-03,Tag der Deutschen Einheit,Day of German Unity,Germany,DE,False
+7,2023-12-25,Erster Weihnachtstag,Christmas Day,Germany,DE,False
+8,2023-12-26,Zweiter Weihnachtstag,Second Christmas Day,Germany,DE,False
+0,2023-01-01,Neujahrestag,New year,Switzerland,CH,False
+1,2023-04-09,Ostern,Good Friday,Switzerland,CH,False
+2,2023-04-07,Karfreitag,Easter Sunday,Switzerland,CH,False
+3,2023-04-10,Ostermontag,Easter Monday,Switzerland,CH,False
+4,2023-05-18,Auffahrt,Ascension Thursday,Switzerland,CH,True
+5,2023-05-28,Pfingsten,Whit Sunday,Switzerland,CH,False
+6,2023-05-29,Pfingstmontag,Whit Monday,Switzerland,CH,False
+7,2023-08-01,Nationalfeiertag,National Holiday,Switzerland,CH,False
+8,2023-12-25,Weihnachten,Christmas Day,Switzerland,CH,False
+0,2023-01-01,Uudenvuodenpäivä,New year,Finland,FI,False
+1,2023-01-06,Loppiainen,Epiphany,Finland,FI,False
+2,2023-04-07,Pitkäperjantai,Good Friday,Finland,FI,False
+3,2023-04-09,Pääsiäispäivä,Easter Sunday,Finland,FI,False
+4,2023-04-10,2. pääsiäispäivä,Easter Monday,Finland,FI,False
+5,2023-05-01,Vappu,Labour Day,Finland,FI,False
+6,2023-05-18,Helatorstai,Ascension Thursday,Finland,FI,True
+7,2023-05-28,Helluntaipäivä,Pentecost,Finland,FI,False
+8,2023-06-24,Juhannuspäivä,Midsummer's Eve,Finland,FI,False
+9,2023-11-04,Pyhäinpäivä,Midsummer's Day,Finland,FI,False
+10,2023-12-06,Itsenäisyyspäivä,All Saints,Finland,FI,False
+11,2023-12-25,Joulupäivä,Independence Day,Finland,FI,False
+12,2023-12-26,Tapaninpäivä,Christmas Eve,Finland,FI,False
+13,2023-06-23,Juhannusaatto,Christmas Day,Finland,FI,False
+14,2023-12-24,Jouluaatto,St. Stephen's Day,Finland,FI,False
+0,2023-01-01 00:00:00,,New year,Sweden,SE,False
+1,2023-01-06 00:00:00,,Epiphany,Sweden,SE,False
+2,2023-04-07 00:00:00,,Good Friday,Sweden,SE,False
+3,2023-04-09 00:00:00,,Easter Sunday,Sweden,SE,False
+4,2023-04-10 00:00:00,,Easter Monday,Sweden,SE,False
+5,2023-05-01 00:00:00,,Labour Day,Sweden,SE,False
+6,2023-05-18 00:00:00,,Ascension Thursday,Sweden,SE,True
+7,2023-05-28 00:00:00,,Pentecost,Sweden,SE,False
+8,2023-06-06 00:00:00,,National Day,Sweden,SE,False
+9,2023-06-23 00:00:00,,Midsummer's Eve,Sweden,SE,False
+10,2023-06-24 00:00:00,,Midsummer's Day,Sweden,SE,False
+11,2023-11-04 00:00:00,,All Saints,Sweden,SE,False
+12,2023-12-24 00:00:00,,Christmas Eve,Sweden,SE,False
+13,2023-12-25 00:00:00,,Christmas Day,Sweden,SE,False
+14,2023-12-26 00:00:00,,Second Day of Christmas,Sweden,SE,False
+15,2023-12-31 00:00:00,,New Year's Eve,Sweden,SE,False
+0,2023-01-01,Πρωτοχρονιά [New Year's Day],New year,Cyprus,CY,False
+1,2023-01-06,Θεοφάνεια [Epiphany],Epiphany,Cyprus,CY,False
+2,2023-02-27,Καθαρά Δευτέρα [Clean Monday],Clean Monday,Cyprus,CY,False
+3,2023-03-25,Εικοστή Πέμπτη Μαρτίου [Greek Independence Day],Greek Independence Day,Cyprus,CY,False
+4,2023-04-01,1η Απριλίου [Cyprus National Day],Cyprus National Day,Cyprus,CY,False
+5,2023-04-14,Μεγάλη Παρασκευή [Good Friday],Good Friday,Cyprus,CY,False
+6,2023-04-16,Κυριακή του Πάσχα [Easter Sunday],Easter Saturday,Cyprus,CY,False
+7,2023-04-17,Δευτέρα του Πάσχα [Easter Monday],Easter Sunday,Cyprus,CY,False
+8,2023-05-01,Εργατική Πρωτομαγιά [Labour day],Easter Monday,Cyprus,CY,False
+9,2023-06-05,Δευτέρα του Αγίου Πνεύματος [Monday of the Holy Spirit],Easter Tuesday,Cyprus,CY,False
+10,2023-08-15,Κοίμηση της Θεοτόκου [Assumption of Mary],Labour Day,Cyprus,CY,False
+11,2023-10-01,Ημέρα Ανεξαρτησίας της Κύπρου [Cyprus Independence Day],Pentecost Monday,Cyprus,CY,False
+12,2023-10-28,Ημέρα του Όχι [Ochi Day],Dormition of the Theotokos,Cyprus,CY,False
+13,2023-12-24,Παραμονή Χριστουγέννων [Christmas Eve],Cyprus Independence Day,Cyprus,CY,False
+14,2023-12-25,Χριστούγεννα [Christmas],Greek National Day,Cyprus,CY,False
+15,2023-12-26,Δεύτερη μέρα Χριστουγέννων [Day after Christmas],Christmas Eve,Cyprus,CY,False
+0,2023-01-01,Nytårsdag,New year,Denmark,DK,False
+1,2023-04-02,Palmesøndag,Holy Thursday,Denmark,DK,True
+2,2023-04-06,Skærtorsdag,Good Friday,Denmark,DK,False
+3,2023-04-07,Langfredag,Easter Sunday,Denmark,DK,False
+4,2023-04-09,Påskedag,Easter Monday,Denmark,DK,False
+5,2023-04-10,Anden påskedag,Store Bededag,Denmark,DK,False
+6,2023-05-05,Store bededag,Ascension Thursday,Denmark,DK,True
+7,2023-05-18,Kristi himmelfartsdag,Pentecost Sunday,Denmark,DK,False
+8,2023-05-28,Pinsedag,Pentecost Monday,Denmark,DK,False
+9,2023-05-29,Anden pinsedag,Christmas Eve,Denmark,DK,False
+10,2023-12-25,Juledag,Christmas Day,Denmark,DK,False
+11,2023-12-26,Anden juledag,Second Day of Christmas,Denmark,DK,False
+0,2023-01-02,Año nuevo (Trasladado),New year,Spain,ES,False
+1,2023-01-06,Epifanía del Señor,Epiphany,Spain,ES,False
+2,2023-04-06,Jueves Santo,Good Friday,Spain,ES,False
+3,2023-04-07,Viernes Santo,Día del trabajador,Spain,ES,False
+4,2023-05-01,Día del Trabajador,Assumption of Mary to Heaven,Spain,ES,False
+5,2023-08-15,Asunción de la Virgen,Fiesta nacional de España,Spain,ES,True
+6,2023-10-12,Día de la Hispanidad,All Saints Day,Spain,ES,False
+7,2023-11-01,Todos los Santos,Día de la Constitución Española,Spain,ES,False
+8,2023-12-06,Día de la Constitución Española,Immaculate Conception,Spain,ES,False
+9,2023-12-08,La Inmaculada Concepción,Christmas Day,Spain,ES,False
+10,2023-12-25,Navidad,,Spain,ES,
+0,2023-01-02,Año nuevo (Trasladado),New year,France,FR,False
+1,2023-01-06,Epifanía del Señor,Easter Monday,France,FR,False
+2,2023-04-06,Jueves Santo,Labour Day,France,FR,False
+3,2023-04-07,Viernes Santo,Victory in Europe Day,France,FR,False
+4,2023-05-01,Día del Trabajador,Ascension Thursday,France,FR,True
+5,2023-08-15,Asunción de la Virgen,Whit Monday,France,FR,False
+6,2023-10-12,Día de la Hispanidad,Bastille Day,France,FR,False
+7,2023-11-01,Todos los Santos,Assumption of Mary to Heaven,France,FR,False
+8,2023-12-06,Día de la Constitución Española,All Saints Day,France,FR,False
+9,2023-12-08,La Inmaculada Concepción,Armistice Day,France,FR,False
+10,2023-12-25,Navidad,Christmas Day,France,FR,False
+0,2023-01-01,uusaasta,New year,Estonia,EE,False
+1,2023-02-24,iseseisvuspäev,Independence Day,Estonia,EE,False
+2,2023-04-07,suur reede,Good Friday,Estonia,EE,False
+3,2023-04-09,ülestõusmispühade 1. püha,Easter Sunday,Estonia,EE,False
+4,2023-05-01,kevadpüha,Kevadpüha,Estonia,EE,False
+5,2023-05-28,nelipühade 1. püha,Nelipühade 1. püha,Estonia,EE,False
+6,2023-06-23,võidupüha,Võidupüha,Estonia,EE,False
+7,2023-06-24,jaanipäev,Jaanipäev,Estonia,EE,False
+8,2023-08-20,taasiseseisvumispäev,Taasiseseisvumispäev,Estonia,EE,False
+9,2023-12-24,jõululaupäev,Christmas Eve,Estonia,EE,False
+10,2023-12-25,esimene jõulupüha,Christmas Day,Estonia,EE,False
+11,2023-12-26,teine jõulupüha,Teine jõulupüha,Estonia,EE,False
+0,2023-01-01,Nieuwjaarsdag,New year,Netherlands,NL,False
+1,2023-04-09,Eerste paasdag,Good Friday,Netherlands,NL,False
+2,2023-04-07,Goede Vrijdag,Easter Sunday,Netherlands,NL,False
+3,2023-04-10,Tweede paasdag,Easter Monday,Netherlands,NL,False
+4,2023-05-18,Hemelvaart,King's day,Netherlands,NL,True
+5,2023-05-28,Eerste Pinksterdag,Liberation Day,Netherlands,NL,False
+6,2023-05-29,Tweede Pinksterdag,Ascension Thursday,Netherlands,NL,True
+7,2023-12-25,Eerste Kerstdag,Whit Sunday,Netherlands,NL,False
+8,2023-12-26,Tweede Kerstdag,Whit Monday,Netherlands,NL,False
+9,2023-04-27,Koningsdag,Christmas Day,Netherlands,NL,False
+0,2023-01-01,Capodanno,New year,Italy,IT,False
+1,2023-01-06,Epifania del Signore,Epiphany,Italy,IT,False
+2,2023-04-09,Pasqua di Resurrezione,Easter Monday,Italy,IT,False
+3,2023-04-10,Lunedì dell'Angelo,Liberation Day,Italy,IT,False
+4,2023-04-25,Festa della Liberazione,International Workers' Day,Italy,IT,False
+5,2023-05-01,Festa dei Lavoratori,Republic Day,Italy,IT,False
+6,2023-06-02,Festa della Repubblica,Assumption of Mary to Heaven,Italy,IT,False
+7,2023-08-15,Assunzione della Vergine,All Saints Day,Italy,IT,False
+8,2023-11-01,Tutti i Santi,Immaculate Conception,Italy,IT,False
+9,2023-12-08,Immacolata Concezione,Christmas Day,Italy,IT,False
+10,2023-12-25,Natale,St Stephen's Day,Italy,IT,False
+11,2023-12-26,Santo Stefano,,Italy,IT,
+0,2023-01-01,Nieuwjaarsdag,New year,Belgium,BE,False
+1,2023-04-09,Pasen,Easter Monday,Belgium,BE,False
+2,2023-04-10,Paasmaandag,Labour Day,Belgium,BE,False
+3,2023-05-18,O.L.H. Hemelvaart,Ascension Thursday,Belgium,BE,True
+4,2023-05-28,Pinksteren,Whit Monday,Belgium,BE,False
+5,2023-05-29,Pinkstermaandag,National Day,Belgium,BE,False
+6,2023-05-01,Dag van de Arbeid,Assumption of Mary to Heaven,Belgium,BE,False
+7,2023-07-21,Nationale feestdag,All Saints Day,Belgium,BE,False
+8,2023-08-15,O.L.V. Hemelvaart,Armistice of 1918,Belgium,BE,False
+9,2023-11-01,Allerheiligen,Christmas Day,Belgium,BE,False
+10,2023-11-11,Wapenstilstand,,Belgium,BE,
+11,2023-12-25,Kerstmis,,Belgium,BE,
+0,2023-01-01,Naujieji metai,New year,Lithuania,LV,False
+1,2023-02-16,Lietuvos valstybės atkūrimo diena,Restoration of the State Day,Lithuania,LV,True
+2,2023-03-11,Lietuvos nepriklausomybės atkūrimo diena,Restoration of Independence Day,Lithuania,LV,False
+3,2023-04-09,Velykos,Easter Sunday,Lithuania,LV,False
+4,2023-04-10,Velykų antroji diena,Easter Monday,Lithuania,LV,False
+5,2023-05-01,Tarptautinė darbo diena,Labour Day,Lithuania,LV,False
+6,2023-05-07,Motinos diena,Mother's day,Lithuania,LV,False
+7,2023-06-04,Tėvo diena,Father's day,Lithuania,LV,False
+8,2023-06-24,"Joninės, Rasos",St. John's Day,Lithuania,LV,False
+9,2023-07-06,Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena,Anniversary of the Coronation of King Mindaugas,Lithuania,LV,True
+10,2023-08-15,Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena),Assumption of Mary to Heaven,Lithuania,LV,False
+11,2023-11-01,Visų šventųjų diena (Vėlinės),All Saints Day,Lithuania,LV,False
+12,2023-11-02,Mirusiųjų atminimo diena (Vėlinės),All Souls Day,Lithuania,LV,True
+13,2023-12-24,Šv. Kūčios,Christmas Eve,Lithuania,LV,False
+14,2023-12-25,Šv. Kalėdų pirma diena,Christmas Day,Lithuania,LV,False
+15,2023-12-26,Šv. Kalėdų antra diena,Second day of Christmas,Lithuania,LV,False
+0,2023-01-01,Naujieji metai,New year,Malta,MT,False
+1,2023-02-16,Lietuvos valstybės atkūrimo diena,Feast of Saint Paul's Shipwreck,Malta,MT,False
+2,2023-03-11,Lietuvos nepriklausomybės atkūrimo diena,Feast of Saint Joseph,Malta,MT,False
+3,2023-04-09,Velykos,Freedom Day,Malta,MT,False
+4,2023-04-10,Velykų antroji diena,Good Friday,Malta,MT,False
+5,2023-05-01,Tarptautinė darbo diena,Worker's Day,Malta,MT,False
+6,2023-05-07,Motinos diena,Sette Giugno,Malta,MT,False
+7,2023-06-04,Tėvo diena,Feast of Saint Peter & Saint Paul,Malta,MT,True
+8,2023-06-24,"Joninės, Rasos",Assumption of Mary to Heaven,Malta,MT,False
+9,2023-07-06,Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena,Victory Day,Malta,MT,False
+10,2023-08-15,Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena),Independence Day,Malta,MT,True
+11,2023-11-01,Visų šventųjų diena (Vėlinės),Immaculate Conception,Malta,MT,False
+12,2023-11-02,Mirusiųjų atminimo diena (Vėlinės),Republic Day,Malta,MT,False
+13,2023-12-24,Šv. Kūčios,Christmas Day,Malta,MT,False
+14,2023-12-25,Šv. Kalėdų pirma diena,,Malta,MT,
+15,2023-12-26,Šv. Kalėdų antra diena,,Malta,MT,
+0,2023-01-01,Újév,New year,Hungary,HU,False
+1,2023-03-15,Nemzeti ünnep,National Day,Hungary,HU,False
+2,2023-04-07,Nagypéntek,Good Friday,Hungary,HU,False
+3,2023-04-09,Húsvét,Easter Sunday,Hungary,HU,False
+4,2023-04-10,Húsvét Hétfő,Easter Monday,Hungary,HU,False
+5,2023-05-28,Pünkösd,Labour Day,Hungary,HU,False
+6,2023-05-29,Pünkösdhétfő,Pentecost Sunday,Hungary,HU,False
+7,2023-05-01,A Munka ünnepe,Pentecost Monday,Hungary,HU,False
+8,2023-08-20,Az államalapítás ünnepe,St Stephen's Day,Hungary,HU,False
+9,2023-10-23,Nemzeti ünnep,National Day,Hungary,HU,False
+10,2023-11-01,Mindenszentek,All Saints Day,Hungary,HU,False
+11,2023-12-25,Karácsony,Christmas Day,Hungary,HU,False
+12,2023-12-26,Karácsony másnapja,Second Day of Christmas,Hungary,HU,False
+0,2023-01-01,Anul Nou,New year,Romania,RO,False
+1,2023-01-02,Anul Nou,Day After New Year,Romania,RO,False
+2,2023-01-24,Unirea Principatelor Române,Union Day,Romania,RO,False
+3,2023-04-14,Paștele,Good Friday,Romania,RO,False
+4,2023-04-16,Paștele,Easter Sunday,Romania,RO,False
+5,2023-04-17,Paștele,Easter Monday,Romania,RO,False
+6,2023-05-01,Ziua Muncii,Labour Day,Romania,RO,False
+7,2023-06-01,Ziua Copilului,Children's Day,Romania,RO,True
+8,2023-06-04,Rusaliile,Pentecost,Romania,RO,False
+9,2023-06-05,Rusaliile,Whit Monday,Romania,RO,False
+10,2023-08-15,Adormirea Maicii Domnului,Dormition of the Theotokos,Romania,RO,False
+11,2023-11-30,Sfântul Andrei,St. Andrew's Day,Romania,RO,True
+12,2023-12-01,Ziua Națională a României,National Day/Great Union,Romania,RO,False
+13,2023-12-25,Crăciunul,Christmas Day,Romania,RO,False
+14,2023-12-26,Crăciunul,Christmas Day,Romania,RO,False
+0,2023-01-01,novo leto,New year,Slovenia,SI,False
+1,2023-01-02,novo leto,January 2nd,Slovenia,SI,False
+2,2023-02-08,Prešernov dan,"Preseren Day, the Slovenian Cultural Holiday",Slovenia,SI,False
+3,2023-04-10,Velikonočni ponedeljek,Easter Sunday,Slovenia,SI,False
+4,2023-04-27,dan upora proti okupatorju,Easter Monday,Slovenia,SI,False
+5,2023-05-01,praznik dela,Day of Uprising Against Occupation,Slovenia,SI,True
+6,2023-05-02,praznik dela,Labour Day,Slovenia,SI,False
+7,2023-06-25,dan državnosti,Labour Day,Slovenia,SI,False
+8,2023-08-15,Marijino vnebovzetje,Whit Sunday,Slovenia,SI,False
+9,2023-10-31,dan reformacije,Statehood Day,Slovenia,SI,False
+10,2023-11-01,dan spomina na mrtve,Assumption of Mary to Heaven,Slovenia,SI,False
+11,2023-12-25,Božič,Reformation Day,Slovenia,SI,False
+12,2023-12-26,dan samostojnosti in enotnosti,Day of Remembrance of the Dead,Slovenia,SI,False
+0,2023-01-01,Нова година,New year,Bulgaria,BG,False
+1,2023-03-03,Ден на Освобождението на България от османско иго,New year shift,Bulgaria,BG,False
+2,2023-05-01,Ден на труда и на международната работническа солидарност,Liberation Day,Bulgaria,BG,False
+3,2023-05-06,"Гергьовден, Ден на храбростта и Българската армия",Good Friday,Bulgaria,BG,False
+4,2023-05-24,"Ден на светите братя Кирил и Методий, на българската азбука, просвета и култура и на славянската книжовност",Easter Saturday,Bulgaria,BG,False
+5,2023-09-06,Ден на Съединението,Easter Sunday,Bulgaria,BG,False
+6,2023-09-22,Ден на Независимостта на България,Easter Monday,Bulgaria,BG,False
+7,2023-11-01,Ден на народните будители,International Workers' Day,Bulgaria,BG,False
+8,2023-12-24,Бъдни вечер,Saint George's Day,Bulgaria,BG,False
+9,2023-12-25,Рождество Христово,Saint George's Day shift,Bulgaria,BG,False
+10,2023-12-26,Рождество Христово,Saints Cyril & Methodius Day,Bulgaria,BG,False
+11,2023-04-14,Велики петък,Unification Day,Bulgaria,BG,False
+12,2023-04-15,Велика събота,Independence Day,Bulgaria,BG,False
+13,2023-04-16,Великден,Christmas Eve,Bulgaria,BG,False
+14,2023-04-17,Великден,Christmas Day,Bulgaria,BG,False
